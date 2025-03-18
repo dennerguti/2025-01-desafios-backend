@@ -9,6 +9,9 @@ Desafios técnicos para os estagiarios do processo seletivo 2025.01 da [SIAPESQ]
 
 Realize o desafio que foi informado na sua entrevista
 
+### Dúvidas
+  Em caso de dúvidas entre em contato pelo grupo do whats ou no privado (Bruno ou Theodor)
+  
 ### Entrega limite 14/04
   Envie o link do repositorio para nos
   
@@ -74,8 +77,3 @@ Realize o desafio que foi informado na sua entrevista
     * **Não será necessário nenhum serviço de arquivos externo(S3,AzureStorage,etc)** faça upload local e guarde o path
     * Utilize qualquer banco relacional
     
-
-### Dúvidas
-  Em caso de dúvidas entre em contato pelo grupo do whats ou no privado (Bruno ou Theodor)
-
-  
