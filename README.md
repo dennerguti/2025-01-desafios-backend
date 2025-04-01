@@ -10,7 +10,7 @@ Desafios técnicos para os estagiarios do processo seletivo 2025.01 da [SIAPESQ]
 Realize o desafio que foi informado na sua entrevista
 
 ### Dúvidas
-  Em caso de dúvidas entre em contato pelo grupo do whats ou no privado (Bruno ou Theodor)
+  Em caso de dúvidas entre em contato pelo Discord ou no privado (Bruno ou Theodor)
   
 ### Entrega limite 14/04
   Envie o link do repositorio para nos
